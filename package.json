@@ -1,0 +1,17 @@
+{
+  "name": "pear-admin-naive-docs",
+  "version": "1.0.0",
+  "description": "Vite.js documentation Chinese translation.",
+  "repository": "https://github.com/vitejs/docs-cn",
+  "author": "落小梅",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 5000",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+	"devDependencies": {
+		"vitepress": "^0.20.9"
+	}
+}
