@@ -22,7 +22,7 @@
 
 ### ComponentName
 
-### All Type
+### Type
 
 ```ts
  export type FormRules = {

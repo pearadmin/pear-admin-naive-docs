@@ -69,6 +69,10 @@ module.exports = {
         {
           text: 'useApi',
           link: '/composable/useApi'
+        },
+        {
+          text: 'usePromiseFn',
+          link: '/composable/usePromiseFn'
         }
       ]
     }
